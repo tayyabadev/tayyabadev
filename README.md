@@ -61,7 +61,7 @@
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabadev&bg_color=1F222E&color=C9D1D9&line=79FE96&point=FFFFFF&area_color=79FE96&border_radius=4.5&title_color=#FDFD96&border_radius=20px"/>
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabadev&bg_color=1F222E&color=C9D1D9&line=79FE96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=#FDFD96&border_radius=20px"/>
   </a> 
 </p>
 
