@@ -15,7 +15,8 @@
 - Topped on district level in IKLC(International Kangroo Linguistic Contest).
 - Aspiring Full Stack developer(currently knows only frontend development).
 - Trainer @icodeguru(for data strucutures and algorithem)
-- Won sac race at punjab college(both in FSc part 1 and Fsc part 02).
+- Won sac race at punjab college(Both in FScI and FscII).
+- I like watching podcasts and playing games (Not on gadgets like mobile but in reality) and sports.
 
 ## Skill Set:
 
