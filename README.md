@@ -58,7 +58,12 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
-
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabadev&bg_color=1F222E&color=C9D1D9&line=79FE96&point=FFFFFF&area_color=79FE96&title_color=FFFFFF&border_radius=20px"/>
+  </a> 
+</p>
 
 
  <p align="center">
