@@ -10,9 +10,10 @@
 - Doing Bacheoler's in BSCS from NUML(4/4 CGPA).
 - Got selected in Standford code in place program and taught python to international students.
 - Typing speed 80 WPM.
-- Won speed programming competetion at Beacon House Interbational College.
+- Won speed programming competetion at Beacon House International College.
 - Won CS50x puzzle day(Solved all 9 0ut of 9 puzzles).
-- Topped on district level in IKLC(International Kangroo Linguistic Contest).- Aspiring Full Stack developer(currently knows only frontend development).
+- Topped on district level in IKLC(International Kangroo Linguistic Contest).
+- Aspiring Full Stack developer(currently knows only frontend development).
 - Trainer @icodeguru(for data strucutures and algorithem)
 - Won sac race at punjab college(both in FSc part 1 and Fsc part 02).
 
