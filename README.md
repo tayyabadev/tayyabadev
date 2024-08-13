@@ -12,21 +12,43 @@
 - Trainer @icodeguru(for data strucutures and algorithem)
 - Won sac race at punjab college(both in FSc part 1 and Fsc part 02).
 
-# Skills Sets
-<table>
-  <tr>
-    <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s" height=100px/>
-     <img src=" https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png"height=100px/>
-    </td>
-    <td>
-    <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"height=100px>
-    </td>
-  </tr>
-</table>
+## Skill Set:
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/arhamansari11">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
+</div>
+</a>
+
+### Backend  
+<a href="https://github.com/arhamansari11">
+<div align="center">   
+      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+    
+### Languages
+<a href="https://github.com/arhamansari11">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/arhamansari11">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
 
 # Connect with me
 <div align="center">
