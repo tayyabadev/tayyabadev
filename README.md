@@ -18,17 +18,17 @@
 
 
 - Actively participating in international events and hackathons. (International participation count 6+).
--I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
--Doing Bacheoler's in BSCS from NUML(4/4 CGPA).
--I got selected for the Stanford code-in-place program and taught Python to international students.
--Typing speed 80 WPM.
--Won speed programming competition at Beacon House International College.
--Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
--Topped on district level in IKLC(International Kangaroo Linguistic Contest).
--Aspiring Full Stack developer(currently knows only frontend development).
--Trainer @icodeguru(for data structures and algorithm)
--I won the sac race at Punjab College (Both in FScI and FscII).
--I like watching podcasts and playing games (Not on gadgets like mobile but in reality) and sports.
+- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
+- Doing Bacheoler's in BSCS from NUML(4/4 CGPA).
+- I got selected for the Stanford code-in-place program and taught Python to international students.
+- Typing speed 80 WPM.
+- Won speed programming competition at Beacon House International College.
+- Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
+- Topped on district level in IKLC(International Kangaroo Linguistic Contest).
+- Aspiring Full Stack developer(currently knows only frontend development).
+- Trainer @icodeguru(for data structures and algorithm)
+- I won the sac race at Punjab College (Both in FScI and FscII).
+- I like watching podcasts and playing games (Not on gadgets like mobile but in reality) and sports.
 
 ## Skill Set:
 
