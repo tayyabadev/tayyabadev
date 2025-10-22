@@ -19,7 +19,7 @@
 
 - Actively participating in international events and hackathons. .
 - I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
-- Doing BSCS from NUML(4/4 CGPA : currently in 3rd semester).
+- Doing BSCS from NUML(4/4 CGPA : currently in fifth semester).
 - I got selected for the Stanford code-in-place program and taught Python to international students.
 - Typing speed 80 WPM.
 - Won speed programming competition at Beacon House International College.
