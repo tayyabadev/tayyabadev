@@ -16,7 +16,7 @@
 
 ## About Me:
 
-- My youtube channel <a href="[https://github.com/tayyabadev](https://www.youtube.com/@Tayyaba_Tabassum)">
+- My youtube channel <a href="[https://github.com/tayyabadev](https://www.youtube.com/@Tayyaba_Tabassum)">Tayyaba Tabassum</a>
 - Actively participating in international events and hackathons. 
 - My approach to development is shaped by a strong foundation in Data Structures & Algorithms and competitive     programming, which sharpens my ability to write efficient, scalable code.
 - Doing BSCS from NUML(4/4 CGPA ).
