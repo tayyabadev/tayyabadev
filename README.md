@@ -16,16 +16,15 @@
 
 ## About Me:
 
-
-- Actively participating in international events and hackathons. .
-- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
-- Doing BSCS from NUML(4/4 CGPA : currently in fifth semester).
+- My youtube channel <a href="[https://github.com/tayyabadev](https://www.youtube.com/@Tayyaba_Tabassum)">
+- Actively participating in international events and hackathons. 
+- My approach to development is shaped by a strong foundation in Data Structures & Algorithms and competitive     programming, which sharpens my ability to write efficient, scalable code.
+- Doing BSCS from NUML(4/4 CGPA ).
 - I got selected for the Stanford code-in-place program and taught Python to international students.
 - Typing speed 80 WPM.
 - Won speed programming competition at Beacon House International College.
 - Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
 - Topped on district level in IKLC(International Kangaroo Linguistic Contest).
-- Aspiring Full Stack developer(currently knows only frontend development).
 - Trainer @icodeguru(for data structures and algorithm)
 - I won the sac race at Punjab College (Both in FSc I and Fsc II).
 - I like watching podcasts and playing games and sports.
